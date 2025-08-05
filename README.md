@@ -134,4 +134,3 @@ Specialized in predictive modeling, machine learning, and financial data analysi
 
 ---
 
-Would you like me to export this as a ready-to-use `README.md` file?
